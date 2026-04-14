@@ -1,5 +1,7 @@
 # Adivina el Impostor
 
+**[Jugar ahora → https://impostor-game-5de48.web.app](https://impostor-game-5de48.web.app)**
+
 Juego de palabras para grupos en el que un jugador (el impostor) recibe una pista diferente a la del resto y debe intentar pasar desapercibido durante la discusión.
 
 ## Cómo se juega
