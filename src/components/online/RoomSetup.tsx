@@ -56,6 +56,7 @@ export default function RoomSetup({ onJoined, onBack }: RoomSetupProps) {
         realWord: '',
         impostorWord: '',
         players: { [playerId]: player },
+        impostorHint: 'none'
       };
 
       await update(ref(db, `rooms/${code}`), room);
